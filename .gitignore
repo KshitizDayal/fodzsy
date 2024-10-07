@@ -1,2 +1,3 @@
-./pubspec.lock 
+pubspec.lock 
 pubspec_overrides.yaml
+.vscode
